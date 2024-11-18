@@ -2,6 +2,6 @@
 #include <stdio>
 
 int main(){
-	printf("Hello.c\n");
+	printf("Hello Git\n");
 	return 0;
 }
